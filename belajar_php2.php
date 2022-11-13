@@ -1,23 +1,24 @@
 <?php
 
-//  $nama = "William";
+ $nama = "William";
 
-// // Perulangan
+// Perulangan
 
-// $no = 9;
-// for ($i=0; $i<$no; $i++) {
-//     $n = $i + 1;
-//     echo $n." ".$nama."<br/>";
-// }
+$no = 9;
+for ($i=0; $i<$no; $i++) {
+    $n = $i + 1;
+    echo $n." ".$nama."<br/>";
+}
 
-// $no = 9;
-// $i = 0;
+$no = 9;
+$i = 0;
 
-// while ($i < $no) {
-//      $n = $i + 1;
-//     echo $n." ".$nama."<br/>";
-//     $i++;
-// }
+while ($i < $no) {
+     $n = $i + 1;
+    echo $n." ".$nama."<br/>";
+    $i++;
+}
+
 
 
 
